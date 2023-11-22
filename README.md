@@ -28,11 +28,13 @@ Aqui está uma visão geral das ferramentas e tecnologias que usamos ao longo do
 
 ### Business Intelligence (BI)
 - **[Power BI](https://powerbi.microsoft.com/):** Usamos o Power BI para criar um dashboard interativo e realizar análises de dados a partir das tabelas relacionadas. O dashboard permitiu visualizar as informações de forma clara e facilitou a identificação de insights e padrões nos dados.
+- **[Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/excel?ef_id=_k_c209c77f224d12536769a22c5317fb05_k_&OCID=AIDcmmq9ldqz5w_SEM__k_c209c77f224d12536769a22c5317fb05_k_&msclkid=c209c77f224d12536769a22c5317fb05):** Trata-se de um programa de planilha eletrônica amplamente utilizado para realizar tarefas relacionadas à manipulação de dados numéricos, análises e apresentações gráficas. Ele faz parte do pacote de aplicativos do Microsoft Office. 
 
 - **Link pro Dashboard** 
 
 ### Metodologia de Pesquisa
-- 
+- **[Sistema de consulta de Dados Públicos](https://cdp.anp.gov.br):** Este site fornece os dados e situação operacional de agentes da indústria do petróleo, gás natural e biocombustíveis. Utilizamos como recurso para alimentação de uma planilha de apoio contendo opções de postos existentes vinculados a marca Ipiranga. 
+
 
 
 
