@@ -12,7 +12,6 @@ CREATE TABLE dm_postos (
     nota_posto FLOAT
 );
 
-
 CREATE TABLE dm_funcionarios (
     id_func INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
     nome_func VARCHAR(50) NOT NULL,
