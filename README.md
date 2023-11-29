@@ -1,6 +1,6 @@
 # 💻 Projeto Integrador Inteligência de Dados Gama Academy-Ipiranga Petroleo 
 
-Este repositório contém os artefatos do projeto realizado pela nossa equipe como parte de conclusão do curso Turma Inteligência de Dados dos aprovados no Bootcamp da [Ipiranga](https://portal.ipiranga/wps/portal/ipiranga/inicio), em parceria com a [Gama Academy](https://www.gama.academy/). O projeto teve como objetivo aplicar e consolidar os conhecimentos adquiridos em diferentes ferramentas e conceitos relacionados à Inteligência de Dados. 
+Este repositório contém os artefatos do projeto realizado pela nossa equipe como parte de conclusão do curso Turma Inteligência de Dados dos aprovados no Bootcamp da [Ipiranga](https://portal.ipiranga/wps/portal/ipiranga/inicio), em parceria com a [Gama Academy](https://www.gama.academy/). O projeto teve como objetivo aplicar e consolidar os conhecimentos adquiridos em diferentes ferramentas e conceitos relacionados à Inteligência de Dados.Todos os dados utilizados são ficticios. 
 
 ## 🛠️ Ferramentas e Tecnologias Utilizadas
 
