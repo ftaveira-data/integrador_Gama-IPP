@@ -7,7 +7,7 @@ Este repositório contém os artefatos do projeto realizado pela nossa equipe co
 Aqui está uma visão geral das ferramentas e tecnologias que usamos ao longo do projeto:
 
 ### Desenvolvimento e Lógica
-- **[Python](https://www.python.org/):** A linguagem de programação Python foi usada para gerar ????
+- **[Python](https://www.python.org/):** A linguagem de programação Python foi usada para popular nossa base de dados.
 - **[SQL](https://www.mysql.com/):** SQL foi a linguagem utilizada para criação do banco de Dados, utlizamos o MySQL como DataBase
 - **[Arquitetura]:** Notion, ferramenta de gerenciamento, analise e criação. Foi utilizdada para registro em ata das reuniões realizadas durante o trabalho. 
 
